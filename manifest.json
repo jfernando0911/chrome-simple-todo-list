@@ -1,0 +1,11 @@
+{
+  "name": "Simple todo list",
+  "version": "0.0.1",
+  "description": "It's a simple todo list that has quantities to see the progress",
+  "permissions": ["storage"],
+  "browser_action": {
+    "default_popup": "popup.html"
+    
+  },
+  "manifest_version": 2
+}
