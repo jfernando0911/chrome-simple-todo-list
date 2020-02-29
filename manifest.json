@@ -1,7 +1,7 @@
 {
-  "name": "Simple todo list",
+  "name": "Simple habit tracker",
   "version": "0.0.1",
-  "description": "It's a simple todo list that has quantities to see the progress",
+  "description": "It's a simple habit app that helps you to track",
   "permissions": ["storage"],
   "browser_action": {
     "default_popup": "popup.html"
